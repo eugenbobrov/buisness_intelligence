@@ -1,5 +1,5 @@
 # buisness_intelligence
-diploma dedicated to scientific articles data analysis
+my diploma specializing in data analysis
 
 ![](data/kclustern.png "keywords clusterization")
 ![](data/cclustern.png "countries clusterization")
