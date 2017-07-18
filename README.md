@@ -1,5 +1,6 @@
 # buisness_intelligence
 my diploma specializing in data analysis and visualization
+
 see main in pdf
 
 ![](data/kclustern.png "keywords clusterization")
