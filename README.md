@@ -1,7 +1,7 @@
 # buisness_intelligence
 diploma dedicated to scientific articles data analysis
 
-![women](data/women.png "women") 
-![keywords clusterization](data/kclustern.png)
-![countries clusterization](data/cclustern.png)
-![cluster-painted worldmap](data/worldmap.png)
+![](data/women.png "women") 
+![](data/kclustern.png "keywords clusterization")
+![](data/cclustern.png "countries clusterization")
+![](data/worldmap.png "cluster-painted worldmap")
