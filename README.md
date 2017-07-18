@@ -1,5 +1,5 @@
 # buisness_intelligence
-my diploma specializing in data analysis
+my diploma specializing in data analysis and visualization
 
 ![](data/kclustern.png "keywords clusterization")
 ![](data/cclustern.png "countries clusterization")
